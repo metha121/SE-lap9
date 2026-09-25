@@ -17,7 +17,4 @@ Hi 👋 My name is metha
 
 
 
-<img
-src="[[[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRoZGJidzRhaDZhbHhyeXZ5
-bjQxbDl4eW5lcXJpamZ1aXhjdWhqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/
-M9gbBd9nbDrOTu1Mqx/giphy.gif](https://pin.it/1vGuxs5hG)](https://i.pinimg.com/736x/2f/e6/15/2fe615ed1dd81eae3fee06f5de8ad7e1.jpg)](https://i.pinimg.com/1200x/86/79/66/8679660ccb4c70bbcdbd2849cf03df56.jpg)" width="100" height="100" />
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/23fc0ff1-fca7-4f36-ab50-bf92794ddd1c" />
