@@ -17,4 +17,4 @@ Hi 👋 My name is metha
 
 
 
-<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/23fc0ff1-fca7-4f36-ab50-bf92794ddd1c" />
+<img width="540" height="540" alt="image" src="https://github.com/user-attachments/assets/23fc0ff1-fca7-4f36-ab50-bf92794ddd1c" />
